@@ -840,7 +840,7 @@
     "Category": "Food & Drink",
     "Phone": "Unavailable",
     "Website": "https://www.instagram.com/dannysicecreamhut/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc64eea85e8ac0267dd4_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/dannys-ice-cream-hut.jpeg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -858,7 +858,7 @@
     "Category": "Farms & Markets",
     "Phone": "905-892-8724",
     "Website": "https://www.devriesfruitfarm.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/devries-fruit-farm.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Farms & Markets"
@@ -876,7 +876,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-892-9992",
     "Website": "http://www.dejavuantiques.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/deja-vu-antiques.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Heritage & Culture"
@@ -894,7 +894,7 @@
     "Category": "Food & Drink",
     "Phone": "905-892-5022",
     "Website": "https://www.domenicson20.ca/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc53a0f7ca8ea845f54e_photo.png",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/domenics-on-20.jpg",
     "Tags": "restaurants",
     "Places To Go": "Pelham",
     "Things To Do": "Food & Drink"
@@ -912,7 +912,7 @@
     "Category": "Food & Drink",
     "Phone": "905-899-2132",
     "Website": "https://www.avondalestores.com/site/diner-express/4990",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc573af139318908af3f_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/donut-diner.jpg",
     "Tags": "breakfast-brunch",
     "Places To Go": "Wainfleet",
     "Things To Do": "Food & Drink"
@@ -930,7 +930,7 @@
     "Category": "Food & Drink",
     "Phone": "905-321-1049",
     "Website": "https://www.facebook.com/p/Downtown-Diner-61571825182980/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc62c83f65d75bb9c1cb_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/downtown-diner.jpg",
     "Tags": "breakfast-brunch",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -948,7 +948,7 @@
     "Category": "Food & Drink",
     "Phone": "905-834-3333",
     "Website": "https://www.driftersportcolborne.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc57b2822e842ab33cb1_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/drifters.jpg",
     "Tags": "restaurants",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -966,7 +966,7 @@
     "Category": "Trails & Nature",
     "Phone": "905-788-3135",
     "Website": "https://npca.ca/parks-recreation/conservation-areas/ec-brown",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/ec-brown-conservation-area.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Trails & Nature"
@@ -984,7 +984,7 @@
     "Category": "Food & Drink",
     "Phone": "905-835-8989",
     "Website": "https://www.facebook.com/amigosresturant/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc597cc593242a40b244_575752991_18060590927444988_6978641009879915946_n.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/eh-amigos-cantina.jpeg",
     "Tags": "restaurants",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -1002,29 +1002,12 @@
     "Category": "Heritage & Culture",
     "Phone": "905-894-8686",
     "Website": "https://www.facebook.com/p/Erie-Beach-Clothing-100083193165686/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/erie-beach-clothing.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
   },
   {
-    "Name": "Erie Beach Variety",
-    "Slug": "erie-beach-variety",
-    "Collection ID": "6946b81d9e236cb84bb404ca",
-    "Locale ID": "66ca412dffaeae770f01ce23",
-    "Item ID": "6976825e49efc84e28c0140a",
-    "Latitude": 42.8900802,
-    "Longitude": -78.9300339,
-    "Address": "97 Albert St, Fort Erie, ON L2A 5K9",
-    "Town": "Fort Erie",
-    "Category": "Heritage & Culture",
-    "Phone": "905-871-4849",
-    "Website": null,
-    "Image": "",
-    "Tags": "",
-    "Places To Go": "Fort Erie",
-    "Things To Do": "Heritage & Culture"
-  },
   {
     "Name": "Erie Indian Bistro",
     "Slug": "erie-indian-bistro",
@@ -1038,7 +1021,7 @@
     "Category": "Food & Drink",
     "Phone": "905-894-2377",
     "Website": "https://www.erieindianbistro.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5f0d5bca7fe00a6f18_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/erie-indian-bistro.jpg",
     "Tags": "restaurants",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -1056,7 +1039,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-834-9218",
     "Website": "https://www.facebook.com/erietrackeroutfitters/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/erie-tracker-outfitters.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Heritage & Culture"
@@ -1074,7 +1057,7 @@
     "Category": "Food & Drink",
     "Phone": "289-968-7747",
     "Website": "https://evermorecharcuterie.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5eb4abd2fe57754325_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/evermore-charcuterie-bistro.jpg",
     "Tags": "restaurants",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -1092,7 +1075,7 @@
     "Category": "Heritage & Culture",
     "Phone": "289-993-2330",
     "Website": "https://www.instagram.com/_everydaymarket/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/everyday-market.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Heritage & Culture"
@@ -1110,7 +1093,7 @@
     "Category": "Farms & Markets",
     "Phone": "Unavailable",
     "Website": "https://www.feederflowerfarm.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/feeder-flower-farm.jpg",
     "Tags": "",
     "Places To Go": "Wainfleet",
     "Things To Do": "Farms & Markets"
