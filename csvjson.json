@@ -1111,7 +1111,7 @@
     "Category": "Farms & Markets",
     "Phone": "905-834-6440",
     "Website": "http://www.fehrhavenfarms.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/fehrhaven-farms.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Farms & Markets"
@@ -1129,7 +1129,7 @@
     "Category": "Farms & Markets",
     "Phone": "905-892-8231",
     "Website": "http://www.fenwickberryfarm.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/fenwick-berry-farm.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Farms & Markets"
@@ -1147,7 +1147,7 @@
     "Category": "Food & Drink",
     "Phone": "905-892-1289",
     "Website": "https://thefenwickpiecompany.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5344473476c5aedfed_about%2520us_1740503042.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/fenwick-pie-co.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Food & Drink"
@@ -1165,7 +1165,7 @@
     "Category": "Food & Drink",
     "Phone": "905-341-8868",
     "Website": "https://flavortown.ca/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc64449c69b129c41ed5_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/flavor-town.jpg",
     "Tags": "mobile-eats",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -1183,7 +1183,7 @@
     "Category": "Food & Drink",
     "Phone": "905-229-8441",
     "Website": "https://www.facebook.com/p/Fleeters-Cafe-100075936792912/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5593def00cb23fe113_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/fleeters.jpeg",
     "Tags": "breakfast-brunch",
     "Places To Go": "Wainfleet",
     "Things To Do": "Food & Drink"
@@ -1201,7 +1201,7 @@
     "Category": "Heritage & Culture",
     "Phone": "866-561-2280",
     "Website": "http://floraldimensions.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/floral-dimensions.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Heritage & Culture"
@@ -1219,7 +1219,7 @@
     "Category": "Food & Drink",
     "Phone": "647-335-4786",
     "Website": "https://www.instagram.com/fontcoffeebar",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc626bd49ef1dcad2d51_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/font-coffee-bar.jpg",
     "Tags": "cafes-bakeries",
     "Places To Go": "Pelham",
     "Things To Do": "Food & Drink"
@@ -1237,28 +1237,10 @@
     "Category": "Farms & Markets",
     "Phone": "905-892-5811",
     "Website": "http://www.fonthillfamilyfruitfarm.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/fonthill-family-fruit-farm.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Farms & Markets"
-  },
-  {
-    "Name": "Fonthill Jewellers",
-    "Slug": "fonthill-jewellers",
-    "Collection ID": "6946b81d9e236cb84bb404ca",
-    "Locale ID": "66ca412dffaeae770f01ce23",
-    "Item ID": "6976825c46685eba29d450b8",
-    "Latitude": 43.0497574,
-    "Longitude": -79.2728985,
-    "Address": "160 Hwy 20 E B7, Fonthill, ON L3E 0B9",
-    "Town": "Pelham",
-    "Category": "Heritage & Culture",
-    "Phone": "289-897-9744",
-    "Website": "http://www.fonthilljewellers.com/",
-    "Image": "",
-    "Tags": "",
-    "Places To Go": "Pelham",
-    "Things To Do": "Heritage & Culture"
   },
   {
     "Name": "Fort Erie Crystal Shop",
@@ -1273,7 +1255,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-359-9509",
     "Website": "http://www.crystalshopfe.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/fort-erie-crystal-shop.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -1291,7 +1273,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-991-8883",
     "Website": "https://www.gibbygolf.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/fort-erie-golf-club.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -1309,7 +1291,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-894-5322",
     "Website": "https://www.forterie.ca/en/recreation-and-culture/historical-museum.aspx",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/fort-erie-historical-museum.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -1327,7 +1309,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-871-3200",
     "Website": "http://www.forterieracing.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/fort-erie-race-track.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -1345,7 +1327,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-892-1694",
     "Website": "https://www.facebook.com/FridaysChildStore/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/fridays-child.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Heritage & Culture"
