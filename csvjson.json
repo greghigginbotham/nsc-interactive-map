@@ -84,7 +84,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-835-9927",
     "Website": "https://ukcpa.top/allinson-s-department-store",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/allinsons-portcolborne.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Heritage & Culture"
@@ -102,28 +102,10 @@
     "Category": "Heritage & Culture",
     "Phone": "905-834-5323",
     "Website": "http://www.alphabet-bookshop.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/alphabet-bookshop.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Heritage & Culture"
-  },
-  {
-    "Name": "Amalfi's Trattoria & Bar",
-    "Slug": "amalfi-s-trattoria-bar-0d436",
-    "Collection ID": "6946b81d9e236cb84bb404ca",
-    "Locale ID": "66ca412dffaeae770f01ce23",
-    "Item ID": "6967dc5e51235b757a66a00e",
-    "Latitude": 42.8639,
-    "Longitude": -79.0632,
-    "Address": "3990 Erie Rd, Crystal Beach, ON L0S 1B0",
-    "Town": "Fort Erie",
-    "Category": "Food & Drink",
-    "Phone": "289-876-9122",
-    "Website": "https://amalfis-trattoria.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5d51235b757a66a009_photo.jpeg",
-    "Tags": "restaurants",
-    "Places To Go": "Fort Erie",
-    "Things To Do": "Food & Drink"
   },
   {
     "Name": "Anchored on Ridge Seafood Market",
@@ -138,7 +120,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-894-9874",
     "Website": "http://www.anchoredseafood.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/anchored-on-the-ridge.avif",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -156,7 +138,7 @@
     "Category": "Farms & Markets",
     "Phone": "905-894-4030",
     "Website": "https://aveenstra.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/andy-veenstra-farms.png",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Farms & Markets"
@@ -174,7 +156,7 @@
     "Category": "Food & Drink",
     "Phone": "905-835-2900",
     "Website": "https://www.portcolborne.ca/en/recreation-and-leisure/tea-room.aspx",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc62db53df2563b9bd35_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/arabellas-tea-room.jpeg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -192,7 +174,7 @@
     "Category": "Food & Drink",
     "Phone": "905-834-8979",
     "Website": "https://www.facebook.com/archiessubs1/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5a627c3f90e4a676cc_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/archies-subs-eatery.jpeg",
     "Tags": "restaurants",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -210,7 +192,7 @@
     "Category": "Food & Drink",
     "Phone": "905-834-9999",
     "Website": "http://www.backroadbbq.ca/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc59a488586197921bc9_photo.jpeg",
+    "Image": https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/backroad-barbecue-company.webp",
     "Tags": "restaurants",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
