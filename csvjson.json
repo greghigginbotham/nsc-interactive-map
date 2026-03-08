@@ -4080,7 +4080,7 @@
     "Category": "Food & Drink",
     "Phone": "905-994-9900",
     "Website": "https://www.ordertabaq.ca/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc60229ecb1ff7186eb4_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/tabaq-restaurant.jpg",
     "Tags": "restaurants",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -4098,7 +4098,7 @@
     "Category": "Food & Drink",
     "Phone": "905-991-1882",
     "Website": "https://www.facebook.com/profile.php?id=61572396986173&mibextid=ZbWKwL",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc60b04eff86354d0350_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/take-2-restaurant-bar.jpg",
     "Tags": "restaurants",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -4116,7 +4116,7 @@
     "Category": "Food & Drink",
     "Phone": "905-515-1277",
     "Website": "http://www.teaonwest.ca/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc58b0d7212d42c3a031_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/tea-on-west.jpg",
     "Tags": "restaurants",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -4134,7 +4134,7 @@
     "Category": "Food & Drink",
     "Phone": "289-762-1118",
     "Website": "https://www.bakingbar.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-baking-bar.jpg",
     "Tags": "cafes-bakeries",
     "Places To Go": "Pelham",
     "Things To Do": "Food & Drink"
@@ -4152,7 +4152,7 @@
     "Category": "Food & Drink",
     "Phone": "905-871-1167",
     "Website": "http://thebarrel.ca/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5c58dc51db3c6f89c5_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-barrel-restaurant.jpg",
     "Tags": "restaurants",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -4170,7 +4170,7 @@
     "Category": "Heritage & Culture",
     "Phone": "Unavailable",
     "Website": "https://www.thebeachmarket.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-beach-market.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -4188,7 +4188,7 @@
     "Category": "Food & Drink",
     "Phone": "905-834-4273",
     "Website": "http://www.thebelmontportcolborne.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc57f897333bc5b8de64_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-belmont.jpg",
     "Tags": "restaurants",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -4206,7 +4206,7 @@
     "Category": "Food & Drink",
     "Phone": "365-880-0360",
     "Website": "https://www.facebook.com/TheBitesOnFoodTruck",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc63f72b4e9ae3902d19_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-bites-on-food-truck.jpg",
     "Tags": "mobile-eats",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -4224,7 +4224,7 @@
     "Category": "Food & Drink",
     "Phone": "905-834-4507",
     "Website": "https://www.facebook.com/breakbarn",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5a3989a2ffb7c7ecd1_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-breakfast-barn-diner.jpg",
     "Tags": "breakfast-brunch",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -4242,27 +4242,9 @@
     "Category": "Food & Drink",
     "Phone": "289-876-8555",
     "Website": "https://www.facebook.com/TheBreakfastBeacon/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5d0523fb5acc70d63a_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-breakfast-beacon.jpg",
     "Tags": "breakfast-brunch",
     "Places To Go": "Fort Erie",
-    "Things To Do": "Food & Drink"
-  },
-  {
-    "Name": "The Brick Oven Pizza & Grill",
-    "Slug": "the-brick-oven-pizza-grill-35fdd",
-    "Collection ID": "6946b81d9e236cb84bb404ca",
-    "Locale ID": "66ca412dffaeae770f01ce23",
-    "Item ID": "6967dc5813ec588965527d8c",
-    "Latitude": 42.8907,
-    "Longitude": -79.3565,
-    "Address": "11609 ON-3, Wainfleet, ON L0S 1V0",
-    "Town": "Wainfleet",
-    "Category": "Food & Drink",
-    "Phone": "Unavailable",
-    "Website": null,
-    "Image": "",
-    "Tags": "pizza",
-    "Places To Go": "Wainfleet",
     "Things To Do": "Food & Drink"
   },
   {
@@ -4278,7 +4260,7 @@
     "Category": "Heritage & Culture",
     "Phone": "365-945-0105",
     "Website": "http://www.cheerstore.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-cheers-store.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Heritage & Culture"
@@ -4296,7 +4278,7 @@
     "Category": "Food & Drink",
     "Phone": "289-397-0541",
     "Website": "https://commercialroadhouse.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5d7b71d278c340c6d8_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-commercial-roadhouse.jpg",
     "Tags": "restaurants",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -4314,7 +4296,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-714-2069",
     "Website": "http://www.thecountrychristmasstore.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-country-christmas-store.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Heritage & Culture"
@@ -4332,7 +4314,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-871-2505",
     "Website": "http://www.zerofoxdesign.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-fox-shop.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -4350,7 +4332,7 @@
     "Category": "Heritage & Culture",
     "Phone": "289-321-0957",
     "Website": "https://www.frugaldutchman.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-frugal-dutchman.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -4368,7 +4350,7 @@
     "Category": "Food & Drink",
     "Phone": "905-834-5031",
     "Website": "https://www.thegardenhouzz.ca/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc55a0f7ca8ea845f5e2_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-garden-houzz.jpg",
     "Tags": "restaurants",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -4386,7 +4368,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-835-9806",
     "Website": "https://www.healthycupboard.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-healthy-cupboard.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Heritage & Culture"
@@ -4404,7 +4386,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-892-9054",
     "Website": "https://www.healthycupboard.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-healthy-cupboard.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Heritage & Culture"
@@ -4422,7 +4404,7 @@
     "Category": "Heritage & Culture",
     "Phone": "289-836-8138",
     "Website": "http://www.thehoneybeestore.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-honey-bee-store.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Heritage & Culture"
@@ -4440,7 +4422,7 @@
     "Category": "Food & Drink",
     "Phone": "289-821-3155",
     "Website": "https://facebook.com/TheHungryPutter",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc56e1c2aef1b249b2f7_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-hungry-putter.jpg",
     "Tags": "mobile-eats",
     "Places To Go": "Wainfleet",
     "Things To Do": "Food & Drink"
@@ -4458,7 +4440,7 @@
     "Category": "Food & Drink",
     "Phone": "905-382-6888",
     "Website": "http://lighthouse4food.ca/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5c19e908ab611ab5c4_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-lighthouse-restaurant-on-the-pkwy.jpg",
     "Tags": "restaurants",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -4476,7 +4458,7 @@
     "Category": "Food & Drink",
     "Phone": "289-836-9700",
     "Website": "http://www.thelockpizza.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc580477b604491414c0_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-lock-wood-fired-pizza.jpeg",
     "Tags": "restaurants",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -4494,7 +4476,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-894-3303",
     "Website": "https://www.facebook.com/p/The-Lonely-Guy-Boutique-100034425400556/",
-    "Image": "",
+    "Image": "the-lonely-guy---mens-boutique",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -4512,7 +4494,7 @@
     "Category": "Food & Drink",
     "Phone": "289-320-9033",
     "Website": "http://themanicmaker.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc600567b87be2bfb231_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/the-manic-maker.jpg",
     "Tags": "cafes-bakeries",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
