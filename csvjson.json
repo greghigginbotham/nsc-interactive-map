@@ -3270,7 +3270,7 @@
     "Category": "Sun & Sand",
     "Phone": "905-899-3463",
     "Website": "https://www.wainfleet.ca/beaches",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/697459545b80e3b2d798c588_PortColborne%2520STILLS%252007.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/reebs-bay-beach.jpg",
     "Tags": "",
     "Places To Go": "Wainfleet",
     "Things To Do": "Sun & Sand"
@@ -3288,7 +3288,7 @@
     "Category": "Sun & Sand",
     "Phone": "905-899-3463",
     "Website": "https://www.wainfleet.ca/beaches",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/regional-beach.jpg",
     "Tags": "",
     "Places To Go": "Wainfleet",
     "Things To Do": "Sun & Sand"
@@ -3306,7 +3306,7 @@
     "Category": "Heritage & Culture",
     "Phone": "Unavailable",
     "Website": null,
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/retro-shop.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -3324,28 +3324,10 @@
     "Category": "Heritage & Culture",
     "Phone": "905-892-5832",
     "Website": "http://www.millionplants.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/rice-road-greenhouses-and-garden-centre.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Heritage & Culture"
-  },
-  {
-    "Name": "Ridgeway Farmers' Market",
-    "Slug": "ridgeway-farmers-market",
-    "Collection ID": "6946b81d9e236cb84bb404ca",
-    "Locale ID": "66ca412dffaeae770f01ce23",
-    "Item ID": "69768261248c608aadccdc7e",
-    "Latitude": 42.8825,
-    "Longitude": -79.0516667,
-    "Address": "282 Ridge Rd N, Ridgeway, ON L0S 1N0",
-    "Town": "Fort Erie",
-    "Category": "Farms & Markets",
-    "Phone": "905-329-4190",
-    "Website": "https://www.facebook.com/RidgewayFarmersMarket/",
-    "Image": "",
-    "Tags": "",
-    "Places To Go": "Fort Erie",
-    "Things To Do": "Farms & Markets"
   },
   {
     "Name": "Rina's Place",
@@ -3360,7 +3342,7 @@
     "Category": "Food & Drink",
     "Phone": "905-994-9889",
     "Website": "https://www.facebook.com/RinasPlaceFE#",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5e7eb68a40321b099a_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/rinas-place.jpg",
     "Tags": "restaurants",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -3378,7 +3360,7 @@
     "Category": "Food & Drink",
     "Phone": "365-359-4455",
     "Website": "https://www.instagram.com/riseenergybar/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc591c63338fca9c2ecc_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/rise-energy-bar.jpg",
     "Tags": "mobile-eats",
     "Places To Go": "Pelham",
     "Things To Do": "Food & Drink"
@@ -3396,7 +3378,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-892-3774",
     "Website": "https://www.facebook.com/Riverview-Golf-Club-185417061508786",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/riverview-golf-club.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Heritage & Culture"
@@ -3414,7 +3396,7 @@
     "Category": "Food & Drink",
     "Phone": "905-894-0555",
     "Website": "http://www.rizzoshouseofparm.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc54ec30680e629cd58e_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/rizzos-house-of-parm.jpg",
     "Tags": "restaurants",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -3432,7 +3414,7 @@
     "Category": "Food & Drink",
     "Phone": "905-892-6474",
     "Website": "https://rootandbone.ca/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc523b004c14db6ee0cd_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/root-bone.jpg",
     "Tags": "restaurants",
     "Places To Go": "Pelham",
     "Things To Do": "Food & Drink"
@@ -3450,7 +3432,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-892-2222",
     "Website": "http://www.rosesfineyarns.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/roses-fine-yarns.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Heritage & Culture"
@@ -3468,7 +3450,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-871-1482",
     "Website": "http://www.rosehilldirect.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/rosehill-auction-house.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -3486,7 +3468,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-835-2900",
     "Website": "https://www.portcolborne.ca/en/recreation-and-leisure/roselawn.aspx",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/roselawn-centre.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Heritage & Culture"
@@ -3504,7 +3486,7 @@
     "Category": "Farms & Markets",
     "Phone": "905-321-3969",
     "Website": "http://rumarfarm.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/rumar-farm.jpeg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Farms & Markets"
@@ -3522,7 +3504,7 @@
     "Category": "Farms & Markets",
     "Phone": "905-894-9143",
     "Website": "https://www.facebook.com/pg/Pony-Paradise-1434709716781929",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/saddlebrook-farm-pony-paradise.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Farms & Markets"
@@ -3540,7 +3522,7 @@
     "Category": "Food & Drink",
     "Phone": "905-834-1345",
     "Website": "http://www.sanmarcosristorante.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5743a73ccde26b3041_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/san-marcos-ristorante.jpg",
     "Tags": "restaurants",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -3558,7 +3540,7 @@
     "Category": "Heritage & Culture",
     "Phone": "289-321-0502",
     "Website": "http://www.thesanctuaryarts.org/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/sanctuary-centre-for-the-arts.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -3576,7 +3558,7 @@
     "Category": "Food & Drink",
     "Phone": "905-835-8835",
     "Website": null,
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5bba28bbc67d2c131b_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/santoro-pizza.jpg",
     "Tags": "pizza",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -3594,7 +3576,7 @@
     "Category": "Farms & Markets",
     "Phone": "Unavailable",
     "Website": "https://www.sarahgrey.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/sarah-grey-pick-farm.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Farms & Markets"
@@ -3612,7 +3594,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-562-4041",
     "Website": "http://www.sawmillgolf.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/sawmill-golf-course.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Heritage & Culture"
@@ -3630,7 +3612,7 @@
     "Category": "Food & Drink",
     "Phone": "905-382-4000",
     "Website": "http://www.thescuttlebutttapandeatery.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5dba28bbc67d2c1355_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/scuttlebutt-tap-eatery.jpeg",
     "Tags": "restaurants",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -3648,7 +3630,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-834-1446",
     "Website": "https://www.facebook.com/serendipitiesboutique/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/serendipities.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Heritage & Culture"
@@ -3666,7 +3648,7 @@
     "Category": "Farms & Markets",
     "Phone": "Unavailable",
     "Website": "https://www.facebook.com/sevensisterselderberryfarm/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/seven-sisters-farm.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Farms & Markets"
@@ -3684,7 +3666,7 @@
     "Category": "Farms & Markets",
     "Phone": "905-359-3652",
     "Website": "http://www.sexsmithfarm.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/sexsmith-farm.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Farms & Markets"
@@ -3702,7 +3684,7 @@
     "Category": "Food & Drink",
     "Phone": "905-382-2525",
     "Website": "https://shaggyspizzaandeats.ca/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc612742102d75b9bb1b_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/shaggy-pizza-eats.jpg",
     "Tags": "pizza",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -3720,7 +3702,7 @@
     "Category": "Food & Drink",
     "Phone": "Unavailable",
     "Website": "https://www.instagram.com/shakacrystalbeach/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5d714b8712a701885b_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/shaka-farm-to-beach.jpg",
     "Tags": "restaurants",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -3738,7 +3720,7 @@
     "Category": "Farms & Markets",
     "Phone": "905-892-4401",
     "Website": "http://www.sherwoodfarm.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/sherwood-farm.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Farms & Markets"
@@ -3756,7 +3738,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-894-1555",
     "Website": "https://socialgracesridgeway.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/social-graces-market-cellar.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -3774,7 +3756,7 @@
     "Category": "Food & Drink",
     "Phone": "905-407-7426",
     "Website": "https://www.sonsdaughterswinery.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967e04897d784b38e4b315b_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/sons-daughters-winery.jpg",
     "Tags": "breweries-wineries",
     "Places To Go": "Pelham",
     "Things To Do": "Food & Drink"
@@ -3792,7 +3774,7 @@
     "Category": "Food & Drink",
     "Phone": "905-321-4413",
     "Website": null,
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5c9f9f5381b79cf3c6_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/sophias-sweets.jpg",
     "Tags": "cafes-bakeries",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -3810,7 +3792,7 @@
     "Category": "Food & Drink",
     "Phone": "905-894-7037",
     "Website": "http://www.southcoastcookhouse.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5cfa8d91db8d485aac_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/south-coast-cookhouse.jpg",
     "Tags": "restaurants",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -3828,7 +3810,7 @@
     "Category": "Food & Drink",
     "Phone": "905-871-3244",
     "Website": "https://facebook.com/southsidesforterie/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5c13ec588965527e5f_348s.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/southsides-patio-bar-grill.jpg",
     "Tags": "restaurants",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -3846,7 +3828,7 @@
     "Category": "Water Adventures",
     "Phone": "Unavailable",
     "Website": "https://www.splashtown.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/splashtown-niagara-water-park.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Water Adventures"
@@ -3864,7 +3846,7 @@
     "Category": "Food & Drink",
     "Phone": "289-228-3270",
     "Website": "https://www.sproutplantparlour.com/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5bb0ffa97955e064b2_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/sprout-plant-parlour.jpg",
     "Tags": "cafes-bakeries",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -3882,25 +3864,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-834-7564",
     "Website": "https://stamplicity.square.site/",
-    "Image": "",
-    "Tags": "",
-    "Places To Go": "Port Colborne",
-    "Things To Do": "Heritage & Culture"
-  },
-  {
-    "Name": "Stamplicity",
-    "Slug": "stamplicity-03e27",
-    "Collection ID": "6946b81d9e236cb84bb404ca",
-    "Locale ID": "66ca412dffaeae770f01ce23",
-    "Item ID": "6976825a69bde4fc8976257e",
-    "Latitude": 42.8862022,
-    "Longitude": -79.2506357,
-    "Address": "14 Clarence St, Port Colborne, ON L3K 3C7",
-    "Town": "Port Colborne",
-    "Category": "Heritage & Culture",
-    "Phone": "905-834-7564",
-    "Website": "http://www.stamplicity.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/stamplicity.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Heritage & Culture"
@@ -3918,7 +3882,7 @@
     "Category": "Food & Drink",
     "Phone": "905-835-9992",
     "Website": "https://www.steeleandclover.ca/",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc591bb11f0efcba7286_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/steele-and-clover-public-house.jpg",
     "Tags": "restaurants",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -3936,7 +3900,7 @@
     "Category": "Trails & Nature",
     "Phone": "905-788-3135",
     "Website": "https://npca.ca/parks/stevensville",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/stevensville-conservation-area.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Trails & Nature"
@@ -3954,7 +3918,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-382-2661",
     "Website": "https://stevensvillegardengallery.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/stevensville-garden-gallery.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -3972,7 +3936,7 @@
     "Category": "Food & Drink",
     "Phone": "Unavailable",
     "Website": "https://www.facebook.com/Stevensville-Ice-Cream-Shack-1634460213442430/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/stevensville-ice-cream.jpg",
     "Tags": "mobile-eats",
     "Places To Go": "Fort Erie",
     "Things To Do": "Food & Drink"
@@ -3990,7 +3954,7 @@
     "Category": "Food & Drink",
     "Phone": "Unavailable",
     "Website": "https://stoke-deli-bar-140.square.site/menu-fonthill",
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc54d1627d62da7c6f41_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/stoke-deli-bar.jpg",
     "Tags": "restaurants",
     "Places To Go": "Pelham",
     "Things To Do": "Food & Drink"
@@ -4008,7 +3972,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-347-0151",
     "Website": "https://www.facebook.com/studiox151?mibextid=ZbWKwL",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/studio-151.jpg",
     "Tags": "",
     "Places To Go": "Fort Erie",
     "Things To Do": "Heritage & Culture"
@@ -4026,7 +3990,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-414-4784",
     "Website": "http://stylesfonthill.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/styles-fonthill.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Heritage & Culture"
@@ -4044,7 +4008,7 @@
     "Category": "Water Adventures",
     "Phone": "905-835-6644",
     "Website": "https://www.portcolborne.ca/sugarloafmarina/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/sugarloaf-harbour-marina.jpg",
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Water Adventures"
@@ -4062,7 +4026,7 @@
     "Category": "Food & Drink",
     "Phone": "905-834-1441",
     "Website": null,
-    "Image": "https://cdn.prod.website-files.com/66ca412dffaeae770f01ce4b/6967dc5bdd664c63b040d228_photo.jpeg",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/super-marios-pizza.jpg",
     "Tags": "pizza",
     "Places To Go": "Port Colborne",
     "Things To Do": "Food & Drink"
@@ -4080,7 +4044,7 @@
     "Category": "Farms & Markets",
     "Phone": "289-687-8851",
     "Website": "http://sweetcreekfamilyfarm.com/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/sweet-creek-family-farm.jpg",
     "Tags": "",
     "Places To Go": "Wainfleet",
     "Things To Do": "Farms & Markets"
@@ -4098,7 +4062,7 @@
     "Category": "Heritage & Culture",
     "Phone": "905-892-9891",
     "Website": "https://sweetthoughts.ca/",
-    "Image": "",
+    "Image": "https://pub-1f7f330fa7d6482ab4435d9b5249f255.r2.dev/sweet-thoughts.jpg",
     "Tags": "",
     "Places To Go": "Pelham",
     "Things To Do": "Heritage & Culture"
