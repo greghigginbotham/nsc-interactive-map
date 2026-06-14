@@ -5187,7 +5187,7 @@
    "Name": "Hotel Philco",
     "Slug": “hotel-philco”,
     "Collection ID": 
-    "Locale ID": 
+    "Locale ID": "66ca412dffaeae770f01ce23",
     "Item ID": 
     "Latitude": 42.8643006756812,
     "Longitude": -79.06099551534209,
@@ -5203,9 +5203,9 @@
   },
   {
  "Name": "Daiva RV Resorts - Crystal Beach",
-    "Slug":
-    "Collection ID": 
-    "Locale ID": 
+    "Slug": "daiva-rvresorts",
+    "Collection ID":
+    "Locale ID": "66ca412dffaeae770f01ce23",
     "Item ID": 
     "Latitude": 42.90618144180893,
     "Longitude": -79.0570590539737,
@@ -5221,9 +5221,9 @@
   },
   {
     "Name": "Comfort Inn Fort Erie",
-    "Slug": 
-    "Collection ID": 
-    "Locale ID": 
+    "Slug": "comfort-inn",
+    "Collection ID":
+    "Locale ID": "66ca412dffaeae770f01ce23",
     "Item ID": 
     "Latitude": 42.909823004366125, 
     "Longitude": -78.93053509630265,
@@ -5239,9 +5239,9 @@
   },
   {
     "Name": "Windmill Point Park & Campground",
-    "Slug": 
+    "Slug": "windmill-pointpark"
     "Collection ID": 
-    "Locale ID": 
+    "Locale ID": "66ca412dffaeae770f01ce23",
     "Item ID": 
     "Latitude": 42.88220295493086, 
     "Longitude": -78.99971698650657,
@@ -5257,9 +5257,9 @@
   },
   {
     "Name": "Sun Retreats Sherkston Shores",
-    "Slug": 
+    "Slug": "sherkston-shores",
     "Collection ID": 
-    "Locale ID": 
+    "Locale ID": "66ca412dffaeae770f01ce23",
     "Item ID": 
     "Latitude": 42.87191759770124, 
     "Longitude": -79.13694505767104,
@@ -5275,9 +5275,9 @@
   },
   {
    "Name": " Canalside Restaurant & Inn",
-    "Slug": 
+    "Slug": "canalside-inn",
     "Collection ID": 
-    "Locale ID": 
+    "Locale ID": "66ca412dffaeae770f01ce23",
     "Item ID": 
     "Latitude": 42.88611456408377, 
     "Longitude": -79.2503778153421,
@@ -5293,9 +5293,9 @@
   },
   {
    "Name": “Bissell's Hideaway Resort",
-    "Slug": 
+    "Slug": "bissels-hideaway",
     "Collection ID": 
-    "Locale ID": 
+    "Locale ID": "66ca412dffaeae770f01ce23",
     "Item ID": 
     "Latitude": 43.06322423603524, 
     "Longitude": -79.30323235582239,
@@ -5311,9 +5311,9 @@
   },
   {
    "Name": “The Fonthill Inn",
-    "Slug": 
+    "Slug": "fonthill-in",
     "Collection ID": 
-    "Locale ID": 
+    "Locale ID": "66ca412dffaeae770f01ce23",
     "Item ID": 
     "Latitude": 43.04525325482772, 
     "Longitude": -79.2852908153421,
@@ -5329,9 +5329,9 @@
   },
   {
    "Name": “Long Beach Resort",
-    "Slug": 
+    "Slug": longbeach-resort"
     "Collection ID": 
-    "Locale ID": 
+    "Locale ID": "66ca412dffaeae770f01ce23",
     "Item ID": 
     "Latitude": 42.86722641155727, 
     "Longitude": -79.38959042883552,
@@ -5347,9 +5347,9 @@
   },
   {
    "Name": “Long Beach Conservation Area & Campground",
-    "Slug": 
+    "Slug": "longbeach-campground",
     "Collection ID": 
-    "Locale ID": 
+    "Locale ID": "66ca412dffaeae770f01ce23",
     "Item ID": 
     "Latitude": 42.87302341739811, 
     "Longitude": -79.42349490554601,
@@ -5365,9 +5365,9 @@
   },
   {
    "Name": “South Coast Guest House",
-    "Slug": 
+    "Slug": "southcoast-guesthouse"
     "Collection ID": 
-    "Locale ID": 
+    "Locale ID": "66ca412dffaeae770f01ce23",
     "Item ID": 
     "Latitude": 42.88502499439133, 
     "Longitude": -79.2817032,
@@ -5383,9 +5383,9 @@
   },
   {
    "Name": “Port Motel",
-    "Slug": 
+    "Slug": "port-motel",
     "Collection ID": 
-    "Locale ID": 
+    "Locale ID": "66ca412dffaeae770f01ce23",
     "Item ID": 
     "Latitude": 42.89184655949211, 
     "Longitude": -79.28170888341012,
