@@ -5182,8 +5182,8 @@
     "Tags": "",
     "Places To Go": "Port Colborne",
     "Things To Do": "Heritage & Culture"
-  }
-{
+  },
+  {
    "Name": "Hotel Philco",
     "Slug": "hotel-philco",
     "Collection ID": null,
@@ -5258,7 +5258,7 @@
   {
     "Name": "Sun Retreats Sherkston Shores",
     "Slug": "sherkston-shores",
-    "Collection ID": 
+    "Collection ID": null,
     "Locale ID": "66ca412dffaeae770f01ce23",
     "Item ID": null,
     "Latitude": 42.8719175, 
@@ -5357,7 +5357,7 @@
     "Town": "Wainfleet",
     "Category": "Accommodations",
     "Phone": "905-899-3462",
-    "Website": "http://www.npca.ca/conservation-areas/long-beach/"
+    "Website": "http://www.npca.ca/conservation-areas/long-beach/",
     "Image": null,
     "Tags": null,
     "Places To Go": "Wainfleet",
